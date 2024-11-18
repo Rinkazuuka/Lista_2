@@ -1,0 +1,36 @@
+.darkMode {
+    background-color: black;
+    color: white;
+
+}
+
+img {
+    object-fit: cover;
+}
+
+#icon_darkmode {
+    width: 36px; 
+    height: 36px ;
+    fill: currentColor;
+    padding: 8px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+
+
+/* @media only screen and (min-width: 720px){
+	.gallery_img { 
+        height: 400px;
+        margin-bottom: 0px;};
+    #card {
+        width: 100%;
+    };
+
+    body {
+        background-color: red; /* tymczasowy styl do testowania 
+    };
+
+} */
